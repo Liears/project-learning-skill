@@ -1,0 +1,4 @@
+interface:
+  display_name: "双项目技术吸收"
+  short_description: "主动发现参考项目中值得目标项目吸收的机制，给出源码证据与迁移验证方案"
+  default_prompt: "使用 $project-learning，对比目标项目 A 和参考项目 B，主动发现 B 中值得 A 吸收的技术，并给出有源码证据的迁移与验证建议。"
